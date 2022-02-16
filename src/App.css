@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 10px;
 }
 
 .App-logo {
@@ -35,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-family: "Bebas Neue";
+  font-size: 72px;
+  color: #61dafb;
 }
